@@ -100,8 +100,7 @@ Reducing churn by just **5%** could retain **123 additional users/month**, addin
 🎓 Master of Business Analytics, Schulich School of Business, York University  
 📍 Based in Toronto, Canada  
 💼 Passionate about bridging **data science and business strategy** to drive measurable impact.  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
+🔗 [LinkedIn]www.linkedin.com/in/yunan-zhang-9354b7350 |
 ---
 
 ## 🌟 Summary for Recruiters
